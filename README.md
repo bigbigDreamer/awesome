@@ -1,0 +1,14 @@
+# Scholar's Awesome
+
+![alt](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/blog/awesome-logo.png)
+
+## 个人简介
+
+花名"书生"，个人爱好：追求极致的代码，~~愿意为了好的代码奉献出生命的最后一刻。~~
+
+## 仓库简介
+
+`AWESOME`：`For myself, for learn more and more konwledge!`
+
+
+
