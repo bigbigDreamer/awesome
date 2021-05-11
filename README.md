@@ -27,7 +27,11 @@
 ## Contributors
 
 <p>
-<img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="150" height="150">
+<a href="https://github.com/bigbigDreamer">
+<img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="80" height="80" style="border-radius: 50%">
+</a>
 &emsp;
-<img src="https://avatars.githubusercontent.com/u/48173189?v=4" width="150" height="150">
+<a href="https://github.com/DianeDii">
+<img src="https://avatars.githubusercontent.com/u/48173189?v=4" style="border-radius: 50%" width="80" height="80">
+</a>
 </p>
