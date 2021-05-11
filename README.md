@@ -1,5 +1,3 @@
-# Scholar's Awesome
-
 ![alt](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/blog/awesome-logo.png)
 
 ## 个人简介
@@ -26,3 +24,8 @@
 
 `mac`或者`windows`下比较有意思的`App`。
 
+## Contributor
+
+<img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="150" height="150">
+&emsp;
+<img src="https://avatars.githubusercontent.com/u/48173189?v=4" width="150" height="150">
