@@ -29,8 +29,7 @@
 <a href="https://github.com/bigbigDreamer" style="flex-shrink: 0; margin-right: 20px;">
 <img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="80" height="80" style="border-radius: 50%">
 </a>
-
-<span> 花名"书生"，追求极致的代码，愿意为了好的代码奉献出生命的最后一刻。</span>
+<span> 书生，追求极致的代码，愿意为了好的代码奉献出生命的最后一刻。</span>
 </p>
 
 <p style="display: flex; align-items: center;">
