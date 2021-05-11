@@ -38,3 +38,7 @@
 </a>
 <span>dianedii，希望能把自己脑洞都通过计算机实现，做些好玩的东西。</span>
 </p>
+
+## LICENSE
+
+[MIT by scholar & dianedii](./LICENSE)
