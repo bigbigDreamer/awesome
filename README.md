@@ -4,6 +4,8 @@
 
 花名"书生"，个人爱好：追求极致的代码，~~愿意为了好的代码奉献出生命的最后一刻。~~
 
+二号：dianedii，简介：希望能把自己脑洞都通过计算机实现，做些好玩的东西。
+
 ## 仓库简介
 
 `AWESOME`：`For myself, for learn more and more konwledge!`
@@ -23,6 +25,7 @@
 ## Awesome-Apps
 
 `mac`或者`windows`下比较有意思的`App`。
+
 
 ## Contributors
 
