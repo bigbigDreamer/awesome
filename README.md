@@ -26,6 +26,7 @@
 
 `mac`或者`windows`下比较有意思的`App`。
 
+1. [picgo](https://github.com/PicGo/)，一个免费的图床搭建平台。
 
 ## Contributors
 
