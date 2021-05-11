@@ -26,6 +26,8 @@
 
 ## Contributor
 
+<p>
 <img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="150" height="150">
 &emsp;
 <img src="https://avatars.githubusercontent.com/u/48173189?v=4" width="150" height="150">
+</p>
