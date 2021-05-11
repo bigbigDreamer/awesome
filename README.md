@@ -1,12 +1,6 @@
 ![alt](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/blog/awesome-logo.png)
 
-## 个人简介
-
-花名"书生"，个人爱好：追求极致的代码，~~愿意为了好的代码奉献出生命的最后一刻。~~
-
-二号：dianedii，简介：希望能把自己脑洞都通过计算机实现，做些好玩的东西。
-
-## 仓库简介
+## Introduction Of Repository
 
 `AWESOME`：`For myself, for learn more and more konwledge!`
 
@@ -30,12 +24,18 @@
 
 ## Contributors
 
-<p>
-<a href="https://github.com/bigbigDreamer">
+
+<p style="display: flex; align-items: center;">
+<a href="https://github.com/bigbigDreamer" style="flex-shrink: 0; margin-right: 20px;">
 <img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="80" height="80" style="border-radius: 50%">
 </a>
-&emsp;
-<a href="https://github.com/DianeDii">
+
+<span> 花名"书生"，追求极致的代码，愿意为了好的代码奉献出生命的最后一刻。</span>
+</p>
+
+<p style="display: flex; align-items: center;">
+<a href="https://github.com/DianeDii" style="flex-shrink: 0; margin-right: 20px">
 <img src="https://avatars.githubusercontent.com/u/48173189?v=4" style="border-radius: 50%" width="80" height="80">
 </a>
+<span>dianedii，希望能把自己脑洞都通过计算机实现，做些好玩的东西。</span>
 </p>
