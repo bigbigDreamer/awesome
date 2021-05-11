@@ -20,11 +20,11 @@
 
 一些有用的`npm`工具包。
 
-## Awesome-App
+## Awesome-Apps
 
 `mac`或者`windows`下比较有意思的`App`。
 
-## Contributor
+## Contributors
 
 <p>
 <img src="https://avatars.githubusercontent.com/u/39019913?v=4" width="150" height="150">
