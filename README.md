@@ -16,11 +16,16 @@
 
 一些有用的`npm`工具包。
 
+1. [圈复杂度神器测评--conard](https://github.com/ConardLi/awesome-cli)
+
 ## Awesome-Apps
 
 `mac`或者`windows`下比较有意思的`App`。
 
-1. [picgo](https://github.com/PicGo/)，一个免费的图床搭建平台。
+1. [picgo](https://github.com/PicGo/) ，一个免费的图床搭建平台。
+   
+2. [SwitchHosts](https://swh.app/zh/) ,SwitchHosts 是一个管理、切换多个 hosts 方案的工具。 它是一个免费开源软件。
+
 
 ## Contributors
 
