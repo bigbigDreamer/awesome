@@ -17,6 +17,7 @@
 一些有用的`npm`工具包。
 
 1. [圈复杂度神器测评--conard](https://github.com/ConardLi/awesome-cli)
+2. [node.js 多线程运转包--napa](https://github.com/microsoft/napajs)
 
 ## Awesome-Apps
 
