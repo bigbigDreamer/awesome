@@ -33,6 +33,10 @@
    
 2. [SwitchHosts](https://swh.app/zh/) ,SwitchHosts 是一个管理、切换多个 hosts 方案的工具。 它是一个免费开源软件。
 
+## Awesome-Website
+
+1. [Loading With Gif](https://giphy.com/explore/loading)
+
 
 ## Contributors
 
