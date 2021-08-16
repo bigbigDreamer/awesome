@@ -21,6 +21,8 @@
 6. [Create React App：不使用eject，自定义webpack配置](https://segmentfault.com/a/1190000011752103?utm_source=sf-similar-article)
     - [原文地址(EN版本)](https://daveceddia.com/customize-create-react-app-webpack-without-ejecting/)
 
+7. [Manifest 详解](https://zhuanlan.zhihu.com/p/68136798)
+
 ## Awesome-Packages
 
 一些有用的`npm`工具包。
